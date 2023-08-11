@@ -4,6 +4,12 @@ There is a generally positive linear trend between charges and BMI. While the tr
 While the trend is positive, there is significant variability in charges for each BMI value. This indicates that other factors beyond BMI also influence medical charges.
 ![download (1)](https://github.com/NatumanyaDuncan/Prediction_of_Products_Sales/assets/98535868/e225eb85-ea10-4666-a7e9-07839a3b9e08)
 
+Description:
+In this health insurance analysis project, we explore a dataset that includes details about individuals' characteristics and their corresponding medical charges. The goal is to uncover insights that shed light on how various factors influence medical costs, enabling better cost prediction and personalized healthcare strategies.
+
+Boxplot of Smoker vs. Charges:
+The boxplot visually compares the distribution of medical charges for smokers and nonsmokers. By analyzing the spread and central tendency of charges within these groups, we can understand the impact of smoking on healthcare expenses.
+
 ![download (2)](https://github.com/NatumanyaDuncan/Prediction_of_Products_Sales/assets/98535868/78481ca2-978c-4193-87b3-ef98b7ad303d)
 
 Description:

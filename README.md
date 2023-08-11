@@ -5,6 +5,12 @@ While the trend is positive, there is significant variability in charges for eac
 ![download (1)](https://github.com/NatumanyaDuncan/Prediction_of_Products_Sales/assets/98535868/e225eb85-ea10-4666-a7e9-07839a3b9e08)
 
 ![download (2)](https://github.com/NatumanyaDuncan/Prediction_of_Products_Sales/assets/98535868/78481ca2-978c-4193-87b3-ef98b7ad303d)
+
+Description:
+In this medical insurance analysis project, we delve into a dataset containing information about individuals' attributes and their corresponding medical charges. By examining these attributes and charges, we aim to uncover insights that can inform medical cost predictions and potential risk factors.
+
+Barplot of Sex vs. Charges:
+The barplot compares the average medical charges between males and females. This visualization helps us understand whether there is a significant difference in medical charges based on gender.
 ![download (3)](https://github.com/NatumanyaDuncan/Prediction_of_Products_Sales/assets/98535868/d79ff005-4b0e-4b67-a53a-8a97de01b725)
 
 Description:

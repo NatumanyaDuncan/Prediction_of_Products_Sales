@@ -6,8 +6,13 @@ While the trend is positive, there is significant variability in charges for eac
 
 ![download (2)](https://github.com/NatumanyaDuncan/Prediction_of_Products_Sales/assets/98535868/78481ca2-978c-4193-87b3-ef98b7ad303d)
 ![download (3)](https://github.com/NatumanyaDuncan/Prediction_of_Products_Sales/assets/98535868/d79ff005-4b0e-4b67-a53a-8a97de01b725)
+Description:
+In this retail data analysis project, we delve into customer data to uncover valuable insights about their preferences and interactions. By examining the relationships between various features and understanding customer behavior, we aim to drive effective business decisions.
+
+Correlation Heatmap:
+The correlation heatmap displays the relationships between numerical variables in the dataset. Warmer colors represent stronger positive correlations, while cooler colors indicate negative correlations. This visualization helps identify potential patterns and connections between different features.
 ![download (4)](https://github.com/NatumanyaDuncan/Prediction_of_Products_Sales/assets/98535868/3be7a58a-440b-4441-ba06-19048764c4d8)
-Project Description:
+Description:
 This project analyzes customer data from a retail company to gain insights into customer demographics, preferences, and behavior. The dataset contains information about items, outlets, and customer profiles, which is used to uncover patterns and trends that could inform marketing and business strategies.
 
 Countplot for Region:

@@ -6,6 +6,7 @@ While the trend is positive, there is significant variability in charges for eac
 
 ![download (2)](https://github.com/NatumanyaDuncan/Prediction_of_Products_Sales/assets/98535868/78481ca2-978c-4193-87b3-ef98b7ad303d)
 ![download (3)](https://github.com/NatumanyaDuncan/Prediction_of_Products_Sales/assets/98535868/d79ff005-4b0e-4b67-a53a-8a97de01b725)
+
 Description:
 In this retail data analysis project, we delve into customer data to uncover valuable insights about their preferences and interactions. By examining the relationships between various features and understanding customer behavior, we aim to drive effective business decisions.
 

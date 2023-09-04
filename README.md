@@ -1,5 +1,6 @@
 # Prediction_of_Products_Sales!
- Leveraging Machine Learning to Optimize Retail Sales Predictions
+ Leveraging Machine Learning to Optimize Retail Sales Predictions  
+ 
 ##Author: NATUMANYA DUNCAN
 
 ![download (1)](https://github.com/NatumanyaDuncan/Prediction_of_Products_Sales/assets/98535868/e225eb85-ea10-4666-a7e9-07839a3b9e08)

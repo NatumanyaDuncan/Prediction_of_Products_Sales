@@ -1,4 +1,6 @@
-# Prediction_of_Products_Sales![download](https://github.com/NatumanyaDuncan/Prediction_of_Products_Sales/assets/98535868/aea1ede9-3ca9-468e-bd6e-6bad81659662)
+# Prediction_of_Products_Sales!
+ Leveraging Machine Learning to Optimize Retail Sales Predictions"
+[download](https://github.com/NatumanyaDuncan/Prediction_of_Products_Sales/assets/98535868/aea1ede9-3ca9-468e-bd6e-6bad81659662)
 
 ![download (1)](https://github.com/NatumanyaDuncan/Prediction_of_Products_Sales/assets/98535868/e225eb85-ea10-4666-a7e9-07839a3b9e08)
 

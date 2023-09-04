@@ -3,7 +3,7 @@ Leveraging Machine Learning to Optimize Retail Sales Predictions
  
 **Author**: NATUMANYA DUNCAN  
 
-##**PROBLEM STATEMENT**:The problem we are trying to solve in this analysis is "Sales Forecasting in Retail." Specifically, we aim to develop predictive models that can accurately forecast sales for retail products based on various factors and attributes. This problem is important for retailers as it helps them make informed decisions regarding inventory management, pricing strategies, and overall business planning.
+## **PROBLEM STATEMENT**:The problem we are trying to solve in this analysis is "Sales Forecasting in Retail." Specifically, we aim to develop predictive models that can accurately forecast sales for retail products based on various factors and attributes. This problem is important for retailers as it helps them make informed decisions regarding inventory management, pricing strategies, and overall business planning.
 **METHODS USED** : some of the methods used were  
 **Data Preprocessing**:
 

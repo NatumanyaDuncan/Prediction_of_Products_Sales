@@ -28,7 +28,7 @@ Metrics used include R-squared (R²) to measure the proportion of variance expla
 
 ![download](https://github.com/NatumanyaDuncan/Prediction_of_Products_Sales/assets/98535868/baa0e51e-772c-4b57-bbef-d69d852ddc3a)
 **
-RECOMMENDATIONS**:   
+## RECOMMENDATIONS**:   
 
 some recommendations for the sales forecasting project in the retail context:
 
